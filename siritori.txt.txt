@@ -2,3 +2,4 @@ ringo
 gorira
 asopasomaso
 soba
+amenbo
